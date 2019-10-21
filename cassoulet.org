@@ -12,22 +12,22 @@ il est prudent de de démarrer à J-2.
 
 * Ingrédients pour 8-10 personnes
 
- - 1 cuisse de poule
- - 3 gros oignons
- - 2 clous de girofle
- - 5 belles cuisses de confit de canard. À prendre en conserve — verre
-   ou métal peu importe — et non sous vide car on utilise le gras du
-   confit des conserves.
- - 6-8 carottes
- - 8-10 gousses d’ail
- - 8 tranches de poitrine fumée, épaisses de 5 à 8 mm
- - 8 tranches de lard, épaisses de 5 à 8 mm
- - 1 kg de saucisse de Toulouse
- - 1,5 kg de [[https://www.haricot-tarbais.com][haricots secs tarbais]] 
- - Du laurier
- - Du thym
- - Sel
- - Poivre
+ - 1 cuisse de poule.
+ - 3 gros oignons.
+ - 2 clous de girofle.
+ - 5 belles cuisses de confit de canard. À prendre en conserve —
+   verre.  ou métal peu importe — et non sous vide, car on utilise le
+   gras du confit des conserves.
+ - 6-8 carottes.
+ - 8-10 gousses d’ail.
+ - 8 tranches de poitrine fumée, épaisses de 5 à 8 mm.
+ - 8 tranches de lard, épaisses de 5 à 8 mm.
+ - 1 kg de saucisse de Toulouse.
+ - 1,5 kg de [[https://www.haricot-tarbais.com][haricots secs tarbais]].
+ - Du laurier.
+ - Du thym.
+ - Sel.
+ - Poivre.
 
 * Le soir de J-2 :
 
@@ -37,22 +37,23 @@ il est prudent de de démarrer à J-2.
 
 ** Blanchir les haricots
 
-1. Égoutter les haricots.
-1. Les mettre dans une grande casserole d’eau froide.
+1. Mettre les haricots dans une grande casserole d’eau froide.
 1. Porter à ébullition 5 minutes — pour enlever l’écume.
-1. Égoutter les haricots et les réserver.
+1. Jetter l'eau de cuisson, égoutter les haricots et les réserver.
 
 ** Le bouillon 
 
-1. Dans une grande casserole, faire bouillir une heure dans 4-5 litres d’eau :
-    - La cuisse de poulet
-    - 1 tranche de lard
-    - 1 tranche de poitrine fumée
+1. Dans une grande casserole, faire bouillir une heure dans 4-5 litres
+   d’eau :
+    - La cuisse de poulet.
+    - 1 tranche de lard.
+    - 1 tranche de poitrine fumée.
     - 1 oignon coupé en 4 ou 8.
-    - Les deux clous de girofle
-    - Quelques feuilles de laurier
-    - 2 carottes coupées en tranches
-    - Sel, poivre
- 4. Filter le bouillon, ou juste enlever les ingrédients ci-dessus à l’écumoir. 
+    - Les deux clous de girofle.
+    - Quelques feuilles de laurier.
+    - 2 carottes coupées en tranches.
+    - Sel & poivre.
+ 4. Filter et conserver le bouillon, ou juste enlever les ingrédients
+    ci-dessus à l’écumoir.
 
 ** La cuisson des haricots
