@@ -6,26 +6,26 @@ Notez que certaines déviances — on ne saurait utiliser le terme
 tarbais]] en lieu et place du lingot de Castelnaudary, ne seraient
 probablement pas validées localement.
 
-Un cassoulet n’est pas très compliqué à réaliser, mais cela ne
-s’improvise pas sur un coup de tête : pour une dégustation au jour J,
-il est prudent de de démarrer à J-2.
+Un cassoulet n’est pas très compliqué à cuisiner, mais cela ne
+s’improvise pas : pour une dégustation au jour J, il est prudent de
+démarrer à J-2.
 
 * Ingrédients pour 8 à 10 personnes
 
- - 1 cuisse de poule.
+ - 1 cuisse de poulet.
  - 3 gros oignons.
  - 2 clous de girofle.
- - 5 belles cuisses de confit de canard. À prendre en conserve — verre
+ - 5 belles cuisses de canard confites. À prendre en conserve — verre
    ou métal peu importe — et non sous vide, car on utilise le gras du
-   confit des conserves.
+   confit.
  - 6 à 8 carottes.
  - 8 à 10 gousses d’ail.
  - 8 tranches de poitrine fumée, épaisses de 5 à 8 mm.
  - 8 tranches de lard, épaisses de 5 à 8 mm.
  - 1 kg de saucisse de Toulouse.
  - 1,5 kg de [[https://www.haricot-tarbais.com][haricots secs tarbais]].
- - Du laurier.
  - Du thym.
+ - Du laurier.
  - Sel.
  - Poivre.
 
@@ -39,7 +39,7 @@ il est prudent de de démarrer à J-2.
 
 1. Mettre les haricots dans une grande casserole d’eau froide.
 1. Porter à ébullition 5 minutes — pour enlever l’écume.
-1. Jetter l'eau de cuisson, égoutter les haricots et les réserver.
+1. Jeter l'eau de cuisson, égoutter les haricots et les réserver.
 
 ** Le bouillon 
 
@@ -58,7 +58,7 @@ il est prudent de de démarrer à J-2.
 
 ** La cuisson des haricots
 
-1. Mettre les haricots dans le bouillon et faire bouillir gentiment
+1. Placer les haricots dans le bouillon et faire bouillir gentiment
    pendant une heure.
 1. Réserver les haricots et conserver le bouillon.
 
@@ -79,8 +79,8 @@ il est prudent de de démarrer à J-2.
 
 ** Montage du cassoulet
 
-1. Lancer le four à 180°C en chaleur tournante.
-1. Graisser le fond du plat avec de la graisse du confit.
+1. Lancer le four à 180° C en chaleur tournante.
+1. Graisser le fond du plat avec de la graisse de confit.
 1. Déposer au fond du plat 3 à 4 tranches de lard et autant de
    poitrine fumée, en alternance — le gras de confit les empêchera de
    coller.
@@ -88,28 +88,27 @@ il est prudent de de démarrer à J-2.
 1. Mettre une première couche de haricots — 1/4 à 1/3 du total — plus
    1 oignon coupé en 8, et 4 à 6 gousses d’ail entières ou coupées en
    deux.
-1. Insérer du laurier et saupoudrer du thym.
+1. Insérer du laurier et saupoudrer de thym.
 1. Poser les cuisses de canard, peau vers le haut, sans qu’elles ne se
    touchent.
 1. Compléter avec ce qu’il reste des haricots, des oignons, du
    laurier, des gousses d’ail coupées et des tranches de lard et de
    poitrine fumée coupées en 4.
-1. Enfoncer les bouts de saucisse dans les haricots, de façon qu’elles
-   affleurent.
-1. Ajouter le bouillon jusqu’à quasiment recouvrir les ingrédients.
+1. Enfoncer les morceaux de saucisse dans les haricots, de façon
+   qu’elles affleurent.
+1. Ajouter du bouillon jusqu’à quasiment recouvrir les ingrédients.
 1. Poivrer à souhait.
-1. Déposer une à deux cuillères à soupe de graisse de confit.
+1. Déposer une à deux cuillers à soupe de graisse de confit.
 1. Saupoudrer de thym.
 
 ** Cuisson
 
-1. Enfourner pour 3 à 5 heures, toujours à 180°C.
-1. Surveiller la croûte qui se forme : elle peut brunir mais ne doit
-   jamais noircir — ne pas brûler. Pour cela, tous les quarts
-   d’heure :
+1. Enfourner pour 3 à 5 heures, toujours à 180° C.
+1. Surveiller la croûte qui se forme : elle peut brunir mais jamais
+   noircir. Pour cela, tous les quarts d’heure environ :
     - Compléter le liquide avec une à deux cuillers à soupe de
       bouillon, ou d’eau lorsque ce dernier sera épuisé.
-    - CAsser et écraser la croûte qui se forme en l’enfonçant avec le
+    - Casser et écraser la croûte qui se forme en l’enfonçant avec le
       dos de la cuiller sous le niveau du liquide.
 1. Porter le plat à table dès sa sortie du four et servir chaud en
    partageant en deux les cuisses de canard.
