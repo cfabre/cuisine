@@ -137,6 +137,10 @@ GTO](https://fr.wikipedia.org/wiki/Ferrari_250_GTO) multipliée par
         dos de la cuiller sous le niveau du liquide.
 3.  Porter le plat à table dès sa sortie du four et servir chaud en
     partageant en deux les cuisses de canard.
+4.  Un cassoulet est égalemnt très bon réchauffé -- donc pas
+    d'inquiétude pour d'éventuels restes. Les ralonger avec du
+    bouillon ou un peu d'eau, et remettre le tout au four pour heure à
+    180 °C.
 
 ## Vins<a id="sec-5-4" name="sec-5-4"></a>
 
