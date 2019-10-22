@@ -15,7 +15,7 @@ démarrer à J-2.
 # Le choix du plat<a id="sec-1" name="sec-1"></a>
 
 Un bon plat à cassoulet, une *cassole*, est un plat spécifique en
-terre cuite. Voir par exemple ceux du Lauraguais présentés sur le site
+terre cuite, comme ceux produits en Lauraguais présentés sur le site
 de la [Confrérie](http://www.confrerieducassoulet.com). Ma préférence
 va aux cassoles
 [ventrues](http://www.poteriecassouletcastelnaudary.com/ventrues.html)
@@ -26,8 +26,9 @@ fonte](https://www.lecreuset.fr) passant au four fera très bien
 l'affaire.
 
 Attention cependant à la taille du plat. Pour un cassoulet de 8 à 10
-personnes sa contenance doit faire dans les 8 à 9 litres, soit à peine
-moins que la cylindrée d'une [Ferrari 250
+personnes sa contenance doit faire dans les 8 à 9 litres. Pour s'en
+souvenir, il suffit de noter que cela fait un poil moins que la
+cylindrée d'une [Ferrari 250
 GTO](https://fr.wikipedia.org/wiki/Ferrari_250_GTO) multipliée par
 *Pi*.
 
