@@ -85,7 +85,7 @@ GTO](https://fr.wikipedia.org/wiki/Ferrari_250_GTO) multipliée par
     laisser mijoter une heure.
 2.  Réserver les haricots et conserver le bouillon.
 
-# Le jour J<a id="sec-5" name="sec-5"></a>
+# Le jour J :<a id="sec-5" name="sec-5"></a>
 
 ## Cuisson des viandes<a id="sec-5-1" name="sec-5-1"></a>
 
