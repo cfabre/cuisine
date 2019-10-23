@@ -117,7 +117,7 @@ GTO](https://fr.wikipedia.org/wiki/Ferrari_250_GTO) multipliée par
 7.  Poser les cuisses de canard, peau vers le haut, sans qu’elles ne se
     touchent.
 8.  Compléter avec ce qu’il reste des haricots, des oignons, des
-    carotes coupées en rondelles de 5 à 8 mm, du laurier, des gousses
+    carottes coupées en rondelles de 5 à 8 mm, du laurier, des gousses
     d’ail coupées et des tranches de lard et de poitrine fumée coupées
     en 4.
 9.  Enfoncer les morceaux de saucisse de façon qu'ils affleurent.
