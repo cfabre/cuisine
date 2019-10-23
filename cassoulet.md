@@ -93,11 +93,13 @@ GTO](https://fr.wikipedia.org/wiki/Ferrari_250_GTO) multipliée par
     -   leur faire rendre un peu de gras,
     -   faire légèrement caraméliser des deux côtés, peau et viande,
         selon vôtre goût.
+    
     Réserver.
 2.  Dans le gras sué par les cuisses, ou ajouté depuis les conserves
     si besoin :
     -   faire dorer la saucisse, en l’ayant découpée préalablement en
         morceaux de 8 à 10 cm de long.
+    
     Réserver.
 
 ### Montage du cassoulet<a id="sec-5-2" name="sec-5-2"></a>
