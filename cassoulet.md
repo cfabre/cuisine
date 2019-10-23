@@ -145,7 +145,7 @@ GTO](https://fr.wikipedia.org/wiki/Ferrari_250_GTO) multipliée par
 ## Vins<a id="sec-5-4" name="sec-5-4"></a>
 
 Il y a quantité de rouges du Sud-Ouest qui accompagnent très bien un
-cassoulet. L'une de mes dernières découveretes en la matière est un
+cassoulet. L'une de mes dernières découvertes en la matière est un
 [Brulhois
 rouge](http://www.vigneronsdubrulhois.com/nos-vins-rouges/6-chateau-grand-chene-fut-2010-75-cl.html)
 offert par des amis connaissant très bien ce vignoble (A. & R.).
