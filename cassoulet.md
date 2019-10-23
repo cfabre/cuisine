@@ -57,14 +57,14 @@ GTO](https://fr.wikipedia.org/wiki/Ferrari_250_GTO) multipliée par
 
 # À J-1 :<a id="sec-4" name="sec-4"></a>
 
-## Blanchir les haricots<a id="sec-4-1" name="sec-4-1"></a>
+### Blanchir les haricots<a id="sec-4-1" name="sec-4-1"></a>
 
 1.  Réserver les haricots et jeter l'eau de la nuit.
 2.  Placer les haricots dans une grande casserole d’eau froide.
 3.  Porter à ébullition 5 minutes — pour enlever l’écume.
 4.  Jeter l'eau de cuisson, égoutter les haricots et les réserver.
 
-## Le bouillon<a id="sec-4-2" name="sec-4-2"></a>
+### Le bouillon<a id="sec-4-2" name="sec-4-2"></a>
 
 1.  Dans une grande casserole, faire bouillir une heure dans 4 à 5 litres
     d’eau :
@@ -79,7 +79,7 @@ GTO](https://fr.wikipedia.org/wiki/Ferrari_250_GTO) multipliée par
 2.  Filter et conserver le bouillon - ou juste enlever les ingrédients
     à l’écumoire.
 
-## La cuisson des haricots<a id="sec-4-3" name="sec-4-3"></a>
+### La cuisson des haricots<a id="sec-4-3" name="sec-4-3"></a>
 
 1.  Placer les haricots dans le bouillon, porter à ébullition et
     laisser mijoter une heure.
@@ -87,7 +87,7 @@ GTO](https://fr.wikipedia.org/wiki/Ferrari_250_GTO) multipliée par
 
 # Le jour J :<a id="sec-5" name="sec-5"></a>
 
-## Cuisson des viandes<a id="sec-5-1" name="sec-5-1"></a>
+### Cuisson des viandes<a id="sec-5-1" name="sec-5-1"></a>
 
 1.  Faire dorer les cuisses de canard confites. Deux objectifs :
     -   leur faire rendre un peu de gras,
@@ -102,7 +102,7 @@ GTO](https://fr.wikipedia.org/wiki/Ferrari_250_GTO) multipliée par
     
     Réserver.
 
-## Montage du cassoulet<a id="sec-5-2" name="sec-5-2"></a>
+### Montage du cassoulet<a id="sec-5-2" name="sec-5-2"></a>
 
 1.  Lancer le four à 180 °C en chaleur tournante.
 2.  Graisser le fond du plat avec de la graisse de confit.
@@ -126,7 +126,7 @@ GTO](https://fr.wikipedia.org/wiki/Ferrari_250_GTO) multipliée par
 12. Déposer une à deux cuillers à soupe de graisse de confit.
 13. Saupoudrer de thym.
 
-## Cuisson<a id="sec-5-3" name="sec-5-3"></a>
+### Cuisson<a id="sec-5-3" name="sec-5-3"></a>
 
 1.  Enfourner pour 3 à 5 heures, toujours à 180 °C.
 2.  Surveiller la croûte qui se forme : elle peut brunir mais jamais
@@ -142,7 +142,7 @@ GTO](https://fr.wikipedia.org/wiki/Ferrari_250_GTO) multipliée par
     bouillon ou un peu d'eau, et remettre le tout au four pour 1 heure
     à 180 °C.
 
-## Vins<a id="sec-5-4" name="sec-5-4"></a>
+### Vins<a id="sec-5-4" name="sec-5-4"></a>
 
 Il y a quantité de rouges du Sud-Ouest qui accompagnent très bien un
 cassoulet. L'une de mes dernières découvertes en la matière est un
