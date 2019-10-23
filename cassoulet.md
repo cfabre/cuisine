@@ -59,7 +59,7 @@ GTO](https://fr.wikipedia.org/wiki/Ferrari_250_GTO) multipliée par
 
 ## Blanchir les haricots<a id="sec-4-1" name="sec-4-1"></a>
 
-1.  Réserver les haricots et jetter l'eau de la nuit.
+1.  Réserver les haricots et jeter l'eau de la nuit.
 2.  Placer les haricots dans une grande casserole d’eau froide.
 3.  Porter à ébullition 5 minutes — pour enlever l’écume.
 4.  Jeter l'eau de cuisson, égoutter les haricots et les réserver.
