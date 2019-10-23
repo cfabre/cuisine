@@ -15,9 +15,9 @@ démarrer à J-2.
 # Le choix du plat<a id="sec-1" name="sec-1"></a>
 
 Un bon plat à cassoulet, une *cassole*, est un plat spécifique en
-terre cuite, comme ceux produits en Lauraguais présentés sur le site
-de la [Confrérie](http://www.confrerieducassoulet.com). Ma préférence
-va aux cassoles
+terre cuite, comme ceux produits en Lauraguais et présentés sur le
+site de la [Confrérie](http://www.confrerieducassoulet.com). Ma
+préférence va aux cassoles
 [ventrues](http://www.poteriecassouletcastelnaudary.com/ventrues.html)
 plutôt que
 [tronconiques](http://www.poteriecassouletcastelnaudary.com/tronconiques.html).
@@ -53,7 +53,7 @@ GTO](https://fr.wikipedia.org/wiki/Ferrari_250_GTO) multipliée par
 
 # Le soir de J-2 :<a id="sec-3" name="sec-3"></a>
 
-1.  Mettre les haricots à tremper dans 4 à 5 litres d’eau pour la nuit.
+1.  Mettre les haricots à tremper pour la nuit dans 4 à 5 litres d’eau.
 
 # À J-1 :<a id="sec-4" name="sec-4"></a>
 
