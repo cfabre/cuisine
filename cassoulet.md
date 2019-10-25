@@ -42,8 +42,8 @@ GTO](https://fr.wikipedia.org/wiki/Ferrari_250_GTO) multipliée par
     confit.
 -   6 à 8 carottes.
 -   8 à 10 gousses d’ail.
--   8 tranches de poitrine fumée, épaisses de 5 à 8 mm.
--   8 tranches de lard, épaisses de 5 à 8 mm.
+-   8 tranches de poitrine fumée, épaisses de 5 mm.
+-   8 tranches de lard, épaisses de 5 mm.
 -   1 kg de saucisse de Toulouse.
 -   1,5 kg de [haricots secs tarbais](https://www.haricot-tarbais.com).
 -   du thym.
