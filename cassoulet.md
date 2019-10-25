@@ -91,8 +91,8 @@ GTO](https://fr.wikipedia.org/wiki/Ferrari_250_GTO) multipliée par
 
 1.  Faire dorer les cuisses de canard confites. Deux objectifs :
     -   leur faire rendre un peu de gras,
-    -   faire légèrement caraméliser des deux côtés, peau et viande,
-        selon vôtre goût.
+    -   les faire légèrement caraméliser des deux côtés, peau et
+        viande, selon vôtre goût.
 
     Réserver.
 2.  Dans le gras sué par les cuisses, ou ajouté depuis les conserves
