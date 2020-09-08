@@ -33,7 +33,7 @@ soupe par personne sera suffisant.
 
 # Une heure avant<a id="sec-3" name="sec-3"></a>
 
-1.  Mettre au refirgérateur la jarre dans laquelle vous monterez la crème fouettée.
+1.  Mettre au refrigérateur la jarre dans laquelle vous monterez la crème fouettée.
 2.  Mettre la faisselle à égouter dans une passoire très fine.
 3.  La couvrir et placer le tout au refrigérateur pour une heure.
 4.  Peler les pêches si elles ne sont pas de culture biologique.
