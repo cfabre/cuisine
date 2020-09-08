@@ -38,7 +38,7 @@ soupe par personne sera suffisant.
 3.  La couvrir et placer le tout au refrigérateur pour une heure.
 4.  Peler les pêches si elles ne sont pas de culture biologique.
 5.  Les dénoyauter et les couper en 12 ou 16. Réserver dans une assiette creuse -- au réfrigérateur si il fait chaud.
-6.  Rincer et réserver les fruits rouges chacun dans leur assiette creuse. Au réfirgérateur également, si besoin.
+6.  Rincer et réserver les fruits rouges chacun dans leur assiette creuse. Au réfrigérateur également si besoin.
 
 # Préparation et montage<a id="sec-4" name="sec-4"></a>
 
