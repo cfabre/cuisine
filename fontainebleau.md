@@ -67,7 +67,7 @@ soupe par personne sera suffisant.
 
 # Note historique
 
-Il semble, mais les avis divergent, que le Fontainebleau ait été
-inventé avant la Crème Chantilly bien que tous les deux datent du
-XVIIIè siècle. Par conséquent selon cette chronologie, la crème
-devrait être montée sans sucre.
+Le Fontainebleau et la Crème Chantilly semblent avoir été inventés
+tous les deux au XVIIIè siècle. Selon certaines sources le
+Fontainebleau précèderait la Chantilly. Si ces sources sont exactes,
+alors la crème doit être montée en simple crème fouettée, sans sucre.
