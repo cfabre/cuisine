@@ -1,7 +1,7 @@
 Cette recette de Fontainebleaux est librement inspirée de souvenirs
 d'enfance et de recettes piochées ici et là.
 
-# Les coupelles et la gaze<a id="sec-1" name="sec-1"></a>
+# Les coupelles et la mousseline<a id="sec-1" name="sec-1"></a>
 
 Un Fontainebleau est traditionelement servi enveloppé dans une
 mousseline. Cependant, c'est aussi bon servi simplement dans sa
