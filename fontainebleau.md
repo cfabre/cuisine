@@ -55,7 +55,7 @@ soupe par personne sera suffisant.
 2.  Mettre la mousseline dans des bols. La rabattre sur l'exterieur. 
 3.  Répartir les 4/5 de la crème fouettée dans les bols -- réserver le reste.
 4.  Partagez équitablement la faiselle entre les bols.
-5.  Incorporez délicatement la faisselle à la crème dans chacun des bols. Pour cela il faut casser les gros morceaux de faisselle jusqu'à ce que le volume des plus gros soient plus petit que celui d'un demi sucre.
+5.  Incorporez délicatement la faisselle à la crème dans chacun des bols. Pour cela il faut casser les gros morceaux de faisselle jusqu'à ce que le volume des plus gros soient plus petit qu'un demi sucre.
 6.  Répartir le reste de la crème sur chacun des bols.
 7.  Fermer les mousselines.
 8.  Placer au réfrigérateur jusqu'au moment de servir.
