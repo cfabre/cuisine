@@ -129,8 +129,8 @@ GTO](https://fr.wikipedia.org/wiki/Ferrari_250_GTO) multipliée par
 ### Cuisson<a id="sec-5-3" name="sec-5-3"></a>
 
 1.  Enfourner pour 3 à 5 heures, toujours à 180 °C.
-2.  Surveiller la croûte qui se forme : elle peut brunir mais jamais
-    noircir. Pour cela, tous les quarts d’heure environ :
+2.  Surveiller la croûte qui se forme : elle peut brunir mais ne doit
+    jamais noircir. Pour cela, tous les quarts d’heure environ :
     -   Compléter le liquide avec une à deux cuillers à soupe de
         bouillon, ou d’eau lorsque ce dernier est épuisé.
     -   Casser et écraser la croûte qui se forme en l’enfonçant avec le
