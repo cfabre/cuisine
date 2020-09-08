@@ -25,7 +25,7 @@ une combinaison linéaire de :
 -   Fraises des bois
 -   Groseilles
 -   Framboises
--   Mures
+-   Mûres
 -   Pêches ou nectarines
 
 Point trop n'en faut, cependant. Le volume d'une à deux cuillères à
