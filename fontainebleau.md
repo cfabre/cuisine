@@ -15,7 +15,7 @@ l'affaire.
 
 -   500 g de faisselle au lait entier.
 -   20 cl de crème fraîche entière liquide.
--   15 g de sucre blond
+-   15 g de sucre blond.
 -   Vanille en poudre -- ou sucre vanillé.
 
 On peut également prévoir des fruits en accompagnement. Par exemple,
