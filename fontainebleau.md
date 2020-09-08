@@ -42,7 +42,7 @@ soupe par personne sera suffisant.
 
 # Préparation et montage<a id="sec-4" name="sec-4"></a>
 
-### Praparation de la crème fouettée
+### Praparation de la crème fouettée<a id="sec-4-1" name="sec-4-1"></a>
 
 1.  Mettre la crème dans la jarre refrigérée.
 2.  La monter au bateur.
