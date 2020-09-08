@@ -51,8 +51,8 @@ soupe par personne sera suffisant.
 
 ### Montage des Fontainebleaux<a id="sec-4-2" name="sec-4-2"></a>
 
-1.  Sortir la faisselle du réfrigérateur.
-2.  Mettre la mousseline dans des bols. La rabattre sur l'exterieur. 
+1.  Mettre la mousseline dans des bols et rabattre les bords sur l'extérieur.
+2.  Sortir la faisselle du réfrigérateur.
 3.  Répartir les 4/5 de la crème fouettée dans les bols -- réserver le reste.
 4.  Partagez équitablement la faiselle entre les bols.
 5.  Incorporez délicatement la faisselle à la crème dans chacun des bols. Pour cela il faut casser les gros morceaux de faisselle jusqu'à ce que le volume des plus gros soient plus petit qu'un demi sucre.
