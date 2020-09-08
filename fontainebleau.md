@@ -45,9 +45,9 @@ soupe par personne sera suffisant.
 ### Praparation de la crème fouettée<a id="sec-4-1" name="sec-4-1"></a>
 
 1.  Mettre la crème dans la jarre refrigérée.
-2.  La monter au bateur.
-3.  Lorsqu'elle commence à montre, ajouter le sucre.
-4.  Arrêter lorsqu'elle est bien ferme -- lorsque la crème ne retombe pas lorsque vous relevez le batteur.
+2.  La monter au batteur.
+3.  Lorsqu'elle commence à monter, ajouter le sucre.
+4.  Arrêter dès que la crème est bien ferme -- lorsqu'elle ne retombe pas si vous relevez le batteur.
 
 ### Montage des Fontainebleaux<a id="sec-4-2" name="sec-4-2"></a>
 
