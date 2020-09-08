@@ -70,5 +70,5 @@ soupe par personne sera suffisant.
 Le Fontainebleau et la Crème Chantilly semblent avoir été inventés
 tous les deux au XVIIIè siècle. Selon certaines sources le
 Fontainebleau précèderait la Chantilly. Si ces sources sont exactes,
-alors la crème doit être logiquement montée en simple crème fouettée,
+alors la crème doit logiquement être montée en simple crème fouettée,
 sans sucre.
