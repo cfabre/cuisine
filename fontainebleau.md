@@ -21,12 +21,12 @@ l'affaire.
 On peut également prévoir des fruits en accompagnement. Par exemple,
 une combinaison linéaire de :
 
--   Fraises
--   Fraises des bois
--   Groseilles
--   Framboises
--   Mûres
--   Pêches ou nectarines
+-   Fraises.
+-   Fraises des bois.
+-   Groseilles.
+-   Framboises.
+-   Mûres.
+-   Pêches ou nectarines.
 
 Point trop n'en faut, cependant. Le volume d'une à deux cuillères à
 soupe par personne sera suffisant.
