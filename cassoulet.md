@@ -132,7 +132,7 @@ GTO](https://fr.wikipedia.org/wiki/Ferrari_250_GTO) multipliée par
 2.  Surveiller la croûte qui se forme : elle peut brunir mais jamais
     noircir. Pour cela, tous les quarts d’heure environ :
     -   Compléter le liquide avec une à deux cuillers à soupe de
-        bouillon, ou d’eau lorsque ce dernier sera épuisé.
+        bouillon, ou d’eau lorsque ce dernier est épuisé.
     -   Casser et écraser la croûte qui se forme en l’enfonçant avec le
         dos de la cuiller sous le niveau du liquide.
 3.  Porter le plat à table dès sa sortie du four et servir chaud en
