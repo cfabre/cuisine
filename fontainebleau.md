@@ -4,7 +4,7 @@ d'enfance et de recettes piochées ici et là.
 # Les coupelles et la mousseline<a id="sec-1" name="sec-1"></a>
 
 Un Fontainebleau est traditionelement servi enveloppé dans une
-mousseline. Cependant, c'est tout aussi bon servi directement dans une
+mousseline. Néanmoins, c'est tout aussi bon servi directement dans une
 coupelle.
 
 Le Fontainebelau a du volume, donc prévoir des coupelles à bord
