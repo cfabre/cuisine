@@ -63,7 +63,7 @@ soupe par personne sera suffisant.
 # Service<a id="sec-5-4" name="sec-5-4"></a>
 
 1. Amennez les bols individuelement à chaque convive.
-2. Disposes les assiètes de fruits au centre de la table, et laissez les convives se servir selon leur goût.
+2. Disposez les assiettes de fruits au centre de la table, et laissez les convives se servir selon leur goût.
 
 # Note historique
 
