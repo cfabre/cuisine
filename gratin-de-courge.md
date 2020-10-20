@@ -1,8 +1,3 @@
-<div style="text-align: right">
-[Retour au sommaire des recettes](./index.md)
-</div>
-
-
 Ce « gratin de courge » est inspiré de diverses recettes de potimarron
 farcis au four et d'un double ratage. Un premier ratage lorsque j'ai
 acheté un potimaron trop haut pour mon four. Le second lorsque j'ai
