@@ -60,7 +60,7 @@ cuite, et non un plat à four plat (*sic*).
 6.  Verser le reste du saladier.
 7.  Bien tasser.
 8.  Verser le jus de cuisson des girolles et la crème liquide. Le
-    liquide doit arriver 10 à 15 mm en dessous de la courge.
+    liquide doit arriver 10 à 15 mm en dessous de la courge.
 9.  Assaisonner à votre goût : sel, poivre, muscade.
 10. Mettre le reste d'emental.
 
