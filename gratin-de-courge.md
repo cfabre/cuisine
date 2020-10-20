@@ -64,7 +64,7 @@ cuite, et non un plat à four plat (*sic*).
 9.  Assaisonner à votre goût : sel, poivre, muscade.
 10. Mettre le reste d'emental.
 
-### Cuisson<a id="sec-5-3" name="sec-5-3"></a>
+# Cuisson<a id="sec-5" name="sec-5"></a>
 
 1.  Enfourner pour 1 heure, toujours à 180 °C.
 2.  Porter le plat à table dès sa sortie du four et servir chaud.
