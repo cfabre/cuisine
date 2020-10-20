@@ -1,7 +1,8 @@
-Ce « grattin de courge » est inspiré de diverses recettes de courges
-farcies au four et de deux ratages simultanés. Un premier lorsque j'ai
-acheté un potimaron trop haut pour mon four. Le second lorsque j'ai
-oublié de faire blanchir la courge.
+Ce « grattin de courge » est inspiré de diverses recettes de
+potimarron farcis au four et d'un double ratage. Un premier ratage
+lorsque j'ai acheté un potimaron trop haut pour mon four. Le second
+lorsque j'ai oublié de le faire blanchir avant de le monter en
+gratin...
 
 # Le choix du plat<a id="sec-1" name="sec-1"></a>
 
