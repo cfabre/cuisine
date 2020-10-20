@@ -1,4 +1,4 @@
-<div style="text-align: right">[Retour au sommaire des recettes](index.md)</div>
+<div style="text-align: right">[Retour au sommaire des recettes](./index.md)</div>
 
 
 Ce « gratin de courge » est inspiré de diverses recettes de potimarron
