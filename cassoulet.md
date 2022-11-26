@@ -76,7 +76,7 @@ GTO](https://fr.wikipedia.org/wiki/Ferrari_250_GTO) multipliée par
     -   quelques feuilles de laurier.
     -   2 carottes coupées en tranches.
     -   sel & poivre.
-2.  Filter et conserver le bouillon - ou juste enlever les ingrédients
+2.  Filter et conserver le bouillon — ou juste enlever les ingrédients
     à l’écumoire.
 
 ### La cuisson des haricots<a id="sec-4-3" name="sec-4-3"></a>
