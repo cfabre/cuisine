@@ -37,7 +37,7 @@ cuite, et non un plat à four plat (*sic*).
 4. Briser les chataignes en 4-6 morceaux sans en faire de la
    purée. Les ajouter au saladier.
 5. Couper les grosses girolles en morceaux de la même taille que la
-   clourge ou les châtaignes. Ajouter les girolles au
+   courge ou les châtaignes. Ajouter les girolles au
    saladier. Réserver l'eau de cuisson ou de conserve des girolles.
 6. Redécouper les lardons s'ils sont trop gros.
 7. Les faire légèrement suer à sec dans une poelle.
